@@ -9,4 +9,4 @@ I am passionate about Machine Learning, transforming raw data into useful format
 I am recently a student Data Science/Analytics BootCamp at Rice University and completed IBM Data Science Nanodegree Program where I gained technical programming and analytical skills and developed essential industry ingenuity through real-world projects and team collaborations. Feel free to take a look at [my repositories](https://github.com/aktugchelekche?tab=repositories)
 I continue to work on projects and honing my skills through online classes and exploring an trending field of Data Science!
 
-Email : aktugcilekci@hotmail.com
+Email : cilekciaktug@gmail.com
